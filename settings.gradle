@@ -1,0 +1,4 @@
+rootProject.name = 'logging'
+include 'call-http-api'
+include 'receive-http-api'
+
